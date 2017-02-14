@@ -1,0 +1,16 @@
+.postListContainer {
+  width: 100%;
+}
+
+.ToolbarRightContent {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 200px;
+  height: 100%;
+  padding-right: 1.5rem;
+}
+
+.sortText {
+  padding-right: .75rem;
+}

@@ -1,0 +1,18 @@
+.chips {
+  display: flex;
+  margin: 0;
+}
+
+.PostBottomRow {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+}
+
+.PostLink {
+  text-decoration: none;
+}
+
+.PostTitle {
+  font-size: 1.3rem;
+}
